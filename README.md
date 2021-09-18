@@ -2,7 +2,7 @@
 
 
 
-We are going  to setup an experimental Kubernetes cluster  using Kubernetes in Docker in Windows with Apache Spark.  We will create an Apache Spark client POD within that cluster to submit jobs. Then, you've used the spark-submit command to create a job running inside this Kubernetes cluster on experimental windows 10 enviroment.
+We are going  to setup an experimental Kubernetes cluster  using Kubernetes in Docker in Windows with Apache Spark.  We will create an Apache Spark client POD within that cluster to submit jobs. Then, you will use spark-submit command to create a job running inside this Kubernetes cluster on experimental windows 10 environment.
 
 Kubernetes is a container orchestrator which allows to schedule millions of "docker" containers on huge compute clusters containing thousands of compute nodes. Originally invented and open-sourced by Google, Kubernetes became the de-facto standard for cloud-native application development and deployment. 
 
